@@ -1,0 +1,5 @@
+{
+  "name": "ScholarLens",
+  "description": "An advanced academic tool that analyzes research paper PDFs to extract summaries, methodologies, and visual insights for literature reviews.",
+  "requestFramePermissions": []
+}
